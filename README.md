@@ -4,6 +4,8 @@ Spy on your matrices, detect eigenvectors and visualize eigenvalue transformatio
 
 This is a Python implementation that checks whether a vector is an eigenvector of a matrix, computes the corresponding eigenvalue, and visualizes the result.
 
+Built for learners who want to see the math come alive in code.
+
 ## Concept
 
 When you multiply a matrix **A** by a special vector **v**, the result is the same vector scaled by a number λ (the eigenvalue):
