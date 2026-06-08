@@ -12,7 +12,7 @@ When you multiply a matrix **A** by a special vector **v**, the result is the sa
 
 $$Av = \lambda v$$
 
-An eigenvector only stretches or shrinks — it never rotates. The eigenvalue tells you by how much.
+An eigenvector only stretches or shrinks, it never rotates. The eigenvalue tells you by how much.
 
 ## Features
 
@@ -68,7 +68,7 @@ The eigenvector check works by computing the ratio `(A @ v) / v` for each non-ze
 ## Example Output
 
 The plot shows:
-- **Orange arrow** — the original vector `v`
-- **Blue arrow** — the transformed vector `Av`
+- **Orange arrow**: the original vector `v`
+- **Blue arrow**:the transformed vector `Av`
 
 If `v` is an eigenvector, the two arrows point in the same direction and the eigenvalue λ is annotated on the plot.
