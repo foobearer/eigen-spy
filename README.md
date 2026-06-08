@@ -1,8 +1,8 @@
-# eigen-spy - Eigenvectors and Eigenvalues
+# Eigen-spy: eigenvectors and eigenvalues
 
-> Spy on your matrices — detect eigenvectors and visualize eigenvalue transformations in Python.
+Spy on your matrices, detect eigenvectors and visualize eigenvalue transformations in Python. 🥇
 
-A Python implementation that checks whether a vector is an eigenvector of a matrix, computes the corresponding eigenvalue, and visualizes the result.
+This is a Python implementation that checks whether a vector is an eigenvector of a matrix, computes the corresponding eigenvalue, and visualizes the result.
 
 ## Concept
 
